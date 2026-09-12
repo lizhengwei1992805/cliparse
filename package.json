@@ -9,7 +9,7 @@
   },
   "dependencies": { "commander": "^12.1.0" },
   "devDependencies": {
-    "typescript": "^5.4.0",
+    "typescript": "^7.0.2",
     "tsx": "^4.7.0",
     "@types/node": "^20.11.0"
   }
